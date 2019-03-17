@@ -1,0 +1,16 @@
+{
+  "name": "spruce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mixtyraa/spruce.git",
+  "author": "mixtyraa <mixtyraa@mail.ru>",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  },
+  "dependencies": {
+    "global": "^4.3.2"
+  }
+}
