@@ -32,8 +32,15 @@ h1 {
 
 .board {
   margin-top: 10px;
-  background: #F0F3F2;
+  background: #fff;
   width: 100%;
   min-height: 400px;
   border-radius: 5px;
-  border-color: #022D42; }
+  border-color: #022D42;
+  padding: 40px 20px; }
+  .board .spruce__level {
+    font-size: 25px;
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    letter-spacing: 13px;
+    text-transform: uppercase; }

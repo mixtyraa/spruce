@@ -53,9 +53,20 @@ h1 {
 }
 .board {
     margin-top:10px;
-    background: $white;
+    background: #fff;
     width: 100%;
     min-height: 400px;
     border-radius: 5px;
     border-color: $blue;
+    padding: 40px 20px;
+    
+    .spruce {
+        &__level {
+            font-size: 25px;
+            font-family: 'Oxygen', sans-serif;
+            text-align: center;
+            letter-spacing: 13px;
+            text-transform: uppercase;
+        }
+    }
 }
